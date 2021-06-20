@@ -1,0 +1,18 @@
+.container1 {
+    background-color: black;
+    width: 1280px;
+    height: 720px;
+    color: black;
+}
+
+.Titulo {
+    font-size: 125px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.Cuerpo {
+    font-size: 80px;
+    font-family: 'Gochi Hand', cursive;
+}
+.img2 {width: 65vh;
+height: 39vh;}
